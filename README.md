@@ -6,8 +6,7 @@ Many students participate in research at some point during their time at Cornell
 ## Course Aims and Outcomes:  
 ### Aims
 The course will equip students with skills to perform data analysis and visualization in R for research in efficient, repeatable, and reliable ways. 
-
-## Specific Learning Outcomes:
+### Specific Learning Outcomes:
 By the end of this course, students will understand the basics of importing and formatting data, be able to write functions, loops, use logical operators, generate plots, and debug or troubleshoot code. Students will work with a dataset (of their choosing) for the duration of the course to mimic the process of data analysis and visualization conducted by researchers. 
 
 ## Format and Procedures:  
