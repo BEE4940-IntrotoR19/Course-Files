@@ -4,7 +4,7 @@
 Many students participate in research at some point during their time at Cornell. Data analysis is an important part of the research process and learning to code can help students be more engaged in the data analysis phase of research or enhance their own independent research. The goal of this short course is to introduce R as a data analysis and visualization tool to students interested in research.
 
 # Course Aims and Outcomes:  
-# Aims
+## Aims
 The course will equip students with skills to perform data analysis and visualization in R for research in efficient, repeatable, and reliable ways. 
 
 # Specific Learning Outcomes:
