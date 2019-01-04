@@ -1,1 +1,1 @@
-Hello! As part of your before class activities please read my introduction titled "Erin Menzies Pluer Introduction" and then follow the instructions in that document to create your own. I'm looking forward to meet you all!
+Hello! As part of your Lesson 0 please read my introduction titled "Erin Menzies Pluer Introduction" and then follow the instructions in that document to create your own. I'm looking forward to meet you all!
